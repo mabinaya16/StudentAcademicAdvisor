@@ -1,0 +1,9 @@
+Student_ID,Name,Department,Semester,Python,Mathematics,Statistics,AI,ML,CGPA,Attendance
+101,Arun,AI & DS,3,85,72,80,88,90,8.4,92
+102,Ravi,AI & DS,3,65,90,75,60,68,7.5,85
+103,Meena,AI & DS,3,92,88,90,94,91,9.2,96
+104,Kavi,CSE,3,78,82,70,75,80,8.0,88
+105,Anu,AI & DS,3,55,65,60,58,62,6.4,72
+106,Divya,AI & DS,3,88,76,85,90,87,8.7,94
+107,Surya,CSE,3,70,68,72,65,70,7.2,80
+108,Priya,AI & DS,3,95,91,94,96,93,9.5,98
